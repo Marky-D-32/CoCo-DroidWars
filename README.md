@@ -28,3 +28,5 @@ In order for this game to run on the TRS-80 Color Computer, the following ROM su
 | $BD52 (48466) | $A9DE (43486) | Reads all joysticks |
 
 The orginal Dragon version makes use of memory locations $139 to $145.  As these are used by the TRS-80 ROM, I have relocated them. 
+
+<img src='./DroidWar.jpg' width=60%>

@@ -1,4 +1,4 @@
-This is a 6809 assembly language two player arcade game originally developed for the Dragon 32 and converted for the TRS-80 \ CoCo.  The object of the game is to destroy your opponents droids.  Joysticks are required.
+This is a 6809 assembly language two player arcade game originally developed for the Dragon 32 and converted for the Tandy CoCo.  The object of the game is to destroy your opponents droids.  Joysticks are required.
 
 The program was originally published in the Dragon 32 Micropaedia insert of Personal COmputer News editions 27,28 and 29 (8th / 15th / 22nd September 1983).
 
